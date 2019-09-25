@@ -1,4 +1,4 @@
-package com.lh.greendao;
+package com.lh.greendao.daoPackage;
 
 import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Generated;

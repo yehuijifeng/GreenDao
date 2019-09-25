@@ -1,7 +1,5 @@
 package com.lh.greendao.daoPackage;
 
-import com.lh.greendao.User;
-
 import org.greenrobot.greendao.AbstractDao;
 import org.greenrobot.greendao.AbstractDaoSession;
 import org.greenrobot.greendao.database.Database;
